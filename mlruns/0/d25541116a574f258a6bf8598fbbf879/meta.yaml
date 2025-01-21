@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d25541116a574f258a6bf8598fbbf879/artifacts
+end_time: 1737442536310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d25541116a574f258a6bf8598fbbf879
+run_name: funny-lark-720
+run_uuid: d25541116a574f258a6bf8598fbbf879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737442519994
+status: 3
+tags: []
+user_id: user

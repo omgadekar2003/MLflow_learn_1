@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/312416877525959285
+creation_time: 1737442285713
+experiment_id: '312416877525959285'
+last_update_time: 1737442285713
+lifecycle_stage: active
+name: Basic Linear Regression
