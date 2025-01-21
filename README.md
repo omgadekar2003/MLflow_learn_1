@@ -1,6 +1,3 @@
-Here’s a basic template for your README file. You can customize it further based on your project’s specifics.
-
-```markdown
 # Basic MLflow Track
 
 ## Description
